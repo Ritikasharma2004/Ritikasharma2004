@@ -10,13 +10,9 @@
 
 ## 🚀 About Me
 
-<img align="right" width="200" src="https://raw.githubusercontent.com/Ritikasharma2004/ritika-portfolio/main/images/ritika-profile.jpg" alt="Ritika Sharma">
-
 I'm a **Data Analyst** based in India, working across SQL, Python, Excel, and Power BI. I clean and analyze messy datasets, build dashboards that make patterns obvious, and turn findings into recommendations people can act on.
 
 Currently pursuing an **MCA at IGNOU (2025–2027)**, after completing my **BCA in Data Science & Big Data Analytics** from Manav Rachna International Institute of Research and Studies. I'm looking for analytical work where the insights actually shape decisions.
-
-<br clear="right">
 
 ---
 
